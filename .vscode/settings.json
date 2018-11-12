@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/98ab22ab-9b7d-41a1-a560-88df890ec96c/resourceGroups/hmg-webapp/providers/Microsoft.Web/sites/bot-beholder-server",
+    "appService.deploySubpath": ""
+}
