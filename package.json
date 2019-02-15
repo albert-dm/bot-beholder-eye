@@ -7,6 +7,9 @@
     "test": "test",
     "start": "node server"
   },
+  "engines": {
+    "node": ">=8.11"
+  },
   "author": "albertdm",
   "license": "ISC",
   "dependencies": {
